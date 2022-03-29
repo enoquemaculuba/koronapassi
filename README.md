@@ -1,0 +1,2 @@
+# koronapassi
+Sovellus koronapassin tallentamiseen.
